@@ -6,4 +6,4 @@ Ingeniería de Sistemas
 - Semestre: II, Grupo: C 
 - Proyecto JS 
 - Desarrollado por: @marlon22123 
-- Date: 06-06-2020
+- Date: 09-09-2020
